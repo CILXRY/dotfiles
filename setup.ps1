@@ -63,6 +63,7 @@ Install-Node
 Install-Python
 Install-Docker
 Install-Java
+Install-Bandizip
 Restore-BaseConfig
 
 Write-Host "`n✅ All done. Reboot if Docker asked."
