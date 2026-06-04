@@ -10,5 +10,5 @@ function Install-Bandizip {
     --version "6.29" `
     --silent
 
-  reg.exe import "$PSScriptRoot\registry\Bandizip_20260604.reg"
+  reg.exe import "$PSScriptRoot\registries\Bandizip_20260604.reg"
 }
